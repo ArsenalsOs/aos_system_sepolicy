@@ -463,6 +463,7 @@ var (
 		"wifiaware":                    EXCEPTION_NO_FUZZER,
 		"wifirtt":                      EXCEPTION_NO_FUZZER,
 		"window":                       EXCEPTION_NO_FUZZER,
+		"aos":                          EXCEPTION_NO_FUZZER,
 		"*":                            EXCEPTION_NO_FUZZER,
 	}
 )
